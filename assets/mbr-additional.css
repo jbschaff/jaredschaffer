@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+#header1-8 P {
+	font-family: 'Open Sans', sans-serif !important;
+}
+#msg-box3-3 H2 {
+	font-family: 'Montserrat', sans-serif !important;
+	font-size: 25px !important;
+	text-align: center !important;
+	color: #cccccc !important;
+}
+#msg-box4-6 H2 {
+	font-size: 25px !important;
+	color: #ffffff !important;
+}
+#msg-box4-6 P {
+	color: #ffffff !important;
+}
+#footer1-7 SPAN {
+	color: #252525 !important;
+}

@@ -1,0 +1,140 @@
+{
+  "settings": {
+    "currentPage": "index.html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Mobirise Mobile Website Builder",
+        "meta_descr": "Free Responsive Website Maker. Create awesome mobile-first websites. Easy and fast - No coding!",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "brand": "Mobirise",
+            "textColor": "#4c6972",
+            "items": []
+          },
+          "logo": "images/logo.png",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                        \n                        <h1>HI, I'M JARED.</h1><p><br></p><p>I'm a product manager based in Dallas, TX. I enjoy discussing mobile/marketplaces/music so let's grab coffee if you're into that. Thanks for stopping by.</p><p><br></p>\n                    \n                    ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"mailto:jared@thetribeapp.com\" id=\"note-editor-2\">EMAIL JARED</a>",
+          "_name": "header1",
+          "_anchor": "header1-8",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    \n                    <h2><span style=\"font-weight: normal;\">JARED SCHAFFER</span></h2><h2><span style=\"color: rgb(119, 119, 119); font-size: 17px; line-height: 27px; text-align: left; font-family: Roboto, Helvetica, Arial, sans-serif; font-weight: normal;\">Find me around the internet at these places:</span></h2><h2 style=\"text-align: left; \"><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://twitter.com/jbschaff\" target=\"_blank\">Twitter</a> &nbsp;</span><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\">&nbsp;&nbsp;</span><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://facebook.com/jbschaffer\" target=\"_blank\"><a href=\"http://facebook.com/jbschaff\" target=\"_blank\">Facebook</a></a>&nbsp;</span>&nbsp;&nbsp;&nbsp;<span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://instagram.com/brewswane\" target=\"_blank\">Instagram</a></span>&nbsp;&nbsp;<span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\">&nbsp;</span>&nbsp;<span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"https://www.linkedin.com/in/jaredschaffer\" target=\"_blank\">LinkedIn</a></span></h2>\n                \n                ",
+          "button": "\n                         \n                    ",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3",
+          "_styles": {
+            "H2": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "25px",
+              "text-align": "center",
+              "color": "#cccccc"
+            }
+          }
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "image": "file:///Users/JBS/Dropbox/Tribe/Tribe Growth/Marketing/Product Mockups/twitterinstream.png",
+          "text": "\n                        <h2>TRIBE</h2><p>Tribe is a social network and marketplace for fans, artists, and live music events. Fans can find nearby concerts &amp; festivals, check in at the event, and connect with other attendees. Currently, building iOS &amp; Android apps with a small team.&nbsp;</p>\n                    \n                    \n                    ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://thetribeapp.com\" id=\"note-editor-20\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-6",
+          "_styles": {
+            "H2": {
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#444444",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                <p><br></p>\n            ",
+          "_name": "footer1",
+          "_anchor": "footer1-7",
+          "_styles": {
+            "SPAN": {
+              "color": "#252525"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
