@@ -38,7 +38,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "\n                        \n                        <h1>HI, I'M JARED.</h1><p><br></p><p>I'm a product manager based in Dallas, TX. I enjoy discussing mobile/marketplaces/music so let's grab coffee if you're into that. Thanks for stopping by.</p><p><br></p>\n                    \n                    ",
+          "text": "\n                        \n                        \n                        <h1>HI, I'M JARED.</h1><p><br></p><p>I'm a product manager based in Dallas, TX. I enjoy discussing mobile/marketplaces/music so let's grab a coffee if you do too. Thanks for stopping by.</p><p><br></p>\n                    \n                    \n                    ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"mailto:jared@thetribeapp.com\" id=\"note-editor-2\">EMAIL JARED</a>",
           "_name": "header1",
           "_anchor": "header1-8",
@@ -64,7 +64,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "\n                    \n                    <h2><span style=\"font-weight: normal;\">JARED SCHAFFER</span></h2><h2><span style=\"color: rgb(119, 119, 119); font-size: 17px; line-height: 27px; text-align: left; font-family: Roboto, Helvetica, Arial, sans-serif; font-weight: normal;\">Find me around the internet at these places:</span></h2><h2 style=\"text-align: left; \"><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://twitter.com/jbschaff\" target=\"_blank\">Twitter</a> &nbsp;</span><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\">&nbsp;&nbsp;</span><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://facebook.com/jbschaffer\" target=\"_blank\"><a href=\"http://facebook.com/jbschaff\" target=\"_blank\">Facebook</a></a>&nbsp;</span>&nbsp;&nbsp;&nbsp;<span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://instagram.com/brewswane\" target=\"_blank\">Instagram</a></span>&nbsp;&nbsp;<span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\">&nbsp;</span>&nbsp;<span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"https://www.linkedin.com/in/jaredschaffer\" target=\"_blank\">LinkedIn</a></span></h2>\n                \n                ",
+          "text": "\n                    \n                    \n                    \n                    \n                    <h2><span style=\"font-weight: normal;\">JARED SCHAFFER</span></h2><h2><span style=\"color: rgb(119, 119, 119); font-size: 17px; line-height: 27px; text-align: left; font-family: Roboto, Helvetica, Arial, sans-serif; font-weight: normal;\">Find me around the internet at these places:</span></h2><h2 style=\"text-align: left; \"><a href=\"http://twitter.com/jbschaff\" target=\"_blank\" style=\"font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px; background-color: rgb(255, 255, 255);\">Twitter</a><br></h2><h2 style=\"text-align: left; \"><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://facebook.com/jbschaff\" target=\"_blank\">Facebook</a></span></h2><h2 style=\"text-align: left; \"><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://instagram.com/brewswane\" target=\"_blank\">Instagram</a></span></h2><h2 style=\"text-align: left; \"><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"https://www.linkedin.com/in/jaredschaffer\" target=\"_blank\">LinkedIn</a></span></h2><h2 style=\"text-align: left; \"><span style=\"color: rgb(119, 119, 119); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 17px; line-height: 27px;\"><a href=\"http://angel.co/jbschaff\" target=\"_blank\">AngelList</a></span></h2>\n                \n                \n                \n                \n                ",
           "button": "\n                         \n                    ",
           "_name": "msg-box3",
           "_anchor": "msg-box3-3",
@@ -106,6 +106,37 @@
               "color": "#ffffff"
             },
             "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "textAlign": "right",
+            "inverse": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e75444",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/JBS/Dropbox/Fort Work/-fwlogo.png",
+          "text": "\n                        \n                        <h2>FORT WORK ACADEMY &nbsp;&nbsp;</h2>\n\n\n\n\n\n\n\n\n<p class=\"p1\">Fort Work Academy is an equity-free incubator for startups. Apply for access to a rolling program offerign access to world-class mentors in product, design, growth, engineering, finance, and startup management. Also, receive credits for products and services from top companies to get your business up and running.</p><p class=\"p1\">Fort Work offers two floors of Coworking, #EventSpace, and an Art Gallery located at Alto 211 in the heart of downtown Dallas, TX.&nbsp;</p>\n                    \n                    ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://angel.co/fort-work\" id=\"note-editor-22\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H2": {
               "color": "#ffffff"
             }
           }
