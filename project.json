@@ -38,7 +38,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "\n                        \n                        \n                        <h1>HI, I'M JARED.</h1><p><br></p><p>I'm a product manager based in Dallas, TX. I enjoy discussing mobile/marketplaces/music so let's grab a coffee if you do too. Thanks for stopping by.</p><p><br></p>\n                    \n                    \n                    ",
+          "text": "\n                        \n                        \n                        \n                        <h1>HI, I'M JARED.</h1><p><br></p><p>I'm a product manager based in Dallas, TX. I enjoy discussing mobile/marketplaces/music, so let's grab a coffee if you do too. Thanks for stopping by.</p><p><br></p>\n                    \n                    \n                    \n                    ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"mailto:jared@thetribeapp.com\" id=\"note-editor-2\">EMAIL JARED</a>",
           "_name": "header1",
           "_anchor": "header1-8",
