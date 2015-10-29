@@ -1550,6 +1550,7 @@ html {
   position: relative;
 }
 .footer-1 .container {
+  color: #000000;
   padding: 0;
   position: relative;
   z-index: 3;
