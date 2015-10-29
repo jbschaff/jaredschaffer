@@ -1545,18 +1545,17 @@ html {
   }
 }
 .footer-1 {
-  background-color: #000000;
+  background: black;
   padding: 36px 20px 37px;
   position: relative;
 }
 .footer-1 .container {
-  color: #000000;
+  background: black;
   padding: 0;
   position: relative;
   z-index: 3;
 }
 .footer-1 p {
-  color: #000000;
   font-size: 13px;
   line-height: 1.5em;
   margin: 0;
