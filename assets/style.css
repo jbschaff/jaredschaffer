@@ -1545,7 +1545,7 @@ html {
   }
 }
 .footer-1 {
-  background-color: #444444;
+  background-color: #000000;
   padding: 36px 20px 37px;
   position: relative;
 }
@@ -1555,7 +1555,7 @@ html {
   z-index: 3;
 }
 .footer-1 p {
-  color: #9c9c9c;
+  color: #000000;
   font-size: 13px;
   line-height: 1.5em;
   margin: 0;
